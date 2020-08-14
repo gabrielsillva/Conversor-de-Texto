@@ -1,5 +1,5 @@
 <h1 align="center">
-  Conversor de texto 
+CONVERSOR DE TEXTO
 </h1>
 
 ## 💻 Projeto
