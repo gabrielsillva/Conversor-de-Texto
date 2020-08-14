@@ -1,2 +1,7 @@
-# Conversor de Texto
-Criei esse Repositório para praticar/postar tudo aquilo que aprendi e irei aprender 
+<h1 align="center">
+  Conversor de texto 
+</h1>
+
+## 💻 Projeto
+
+Conversor de texto em python que transforma texto minúsculo em maiúsculo ou vic-versa .
